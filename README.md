@@ -23,10 +23,10 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 - UI/UX
 
 ## 📫 Connect with Me
-- X: [[@BinitGupta21](https://x.com/BinitGupta21)]
-- LinkedIn: [[Binit Gupta](www.linkedin.com/in/binitgupta)]
-- GitHub: [[binit2-1](https://github.com/binit2-1/)]
-- Email: [binitgupta.1711@gmail.com]
+- X: [@BinitGupta21](https://x.com/BinitGupta21)
+- LinkedIn: [Binit Gupta](www.linkedin.com/in/binitgupta)
+- GitHub: [binit2-1](https://github.com/binit2-1/)
+- Email: binitgupta.1711@gmail.com
 
 ---
 *Thanks for visiting my profile!*
