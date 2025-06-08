@@ -24,6 +24,10 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 - Linux
 - UI/UX
 
+## 📊 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## 📫 Connect with Me
 
 <table>
