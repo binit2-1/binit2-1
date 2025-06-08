@@ -66,6 +66,10 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+## 📊 GitHub Contributions Graph
+
+[![Binit Gupta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binit2-1&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Connect with Me
 
 <table>
