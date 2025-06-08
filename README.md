@@ -26,11 +26,19 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 
 ## 📈 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binit2-1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binit2-1&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+  </a>
+</p>
 
 ## 📊 GitHub Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
