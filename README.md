@@ -5,8 +5,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binit2-1&style=flat-square)
 
-Welcome to my GitHub profile!
-
 ## 👨‍💻 About Me
 I'm currently learning fullstack web development. I do graphic designing as a hobby, and new technologies always amaze me.
 
