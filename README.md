@@ -1,4 +1,4 @@
-# Hi, I'm Binit Gupta 👋
+# Hi, I'm Binit Gupta 👋  ![Profile Views](https://komarev.com/ghpvc/?username=binit2-1&style=flat-square)
 
 Welcome to my GitHub profile!
 
