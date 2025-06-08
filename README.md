@@ -24,6 +24,10 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 - Linux
 - UI/UX
 
+## 📈 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binit2-1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📊 GitHub Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true)](https://git.io/streak-stats)
