@@ -8,6 +8,8 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 ## 🌱 Interests
 - Graphic Design
 - Exploring AI
+- Fullstack development
+- Linux
 
 ## 🛠️ Technologies
 - Adobe Suite (Photoshop, Illustrator)
