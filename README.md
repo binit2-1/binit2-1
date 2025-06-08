@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=false&vCenter=true&width=435&lines=Hi%2C+I+am+Binit!;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Binit Gupta 👋  ![Profile Views](https://komarev.com/ghpvc/?username=binit2-1&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=binit2-1&style=flat-square)
 
 Welcome to my GitHub profile!
 
