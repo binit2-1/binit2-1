@@ -25,7 +25,7 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
 - UI/UX
 
 ## 📫 Connect with Me
-<palign="left">
+<p>
   <a href="https://x.com/BinitGupta21" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
   </a>
