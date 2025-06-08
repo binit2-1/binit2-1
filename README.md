@@ -1,22 +1,25 @@
 <!-- Typing SVG by DenverCoder1 (https://github.com/DenverCoder1/readme-typing-svg) -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=false&vCenter=true&width=435&lines=Hi%2C+I+am+Binit!;Welcome+to+my+profile!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Binit!;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=binit2-1&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=binit2-1&style=flat-square" alt="Profile Views" />
+</p>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
 I'm currently learning fullstack web development. I do graphic designing as a hobby, and new technologies always amaze me.
+</p>
 
-## 🌱 Interests
-- Graphic Design
-- Exploring AI
-- Fullstack development
-- Linux
+<h2 align="center">🌱 Interests</h2>
+<p align="center">
+  <b>Graphic Design</b> • <b>Exploring AI</b> • <b>Fullstack development</b> • <b>Linux</b>
+</p>
 
-## 🛠️ Skills & Technologies
-
-<table>
+<h2 align="center">🛠️ Skills & Technologies</h2>
+<p align="center">
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
@@ -60,22 +63,32 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
     </td>
   </tr>
 </table>
+</p>
 
-## 📈 Most Used Languages
+<h2 align="center">📈 Most Used Languages</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binit2-1&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binit2-1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 GitHub Contribution Streak</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
-## 📊 GitHub Contribution Streak
+<h2 align="center">📊 GitHub Contributions Graph</h2>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=binit2-1&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=binit2-1&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## 📊 GitHub Contributions Graph
-
-[![Binit Gupta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binit2-1&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-## 📫 Connect with Me
-
-<table>
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://x.com/BinitGupta21" target="_blank">
@@ -103,6 +116,7 @@ I'm currently learning fullstack web development. I do graphic designing as a ho
     </td>
   </tr>
 </table>
+</p>
 
 ---
-*Thanks for visiting my profile!*
+<p align="center"><i>Thanks for visiting my profile!</i></p>
